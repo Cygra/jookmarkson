@@ -2,10 +2,6 @@
   "name": "jookmarkson",
   "version": "0.1",
   "description": "backup bookmarks in json",
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  },
   "permissions": [
     "bookmarks",
     "downloads"
